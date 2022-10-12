@@ -1,16 +1,17 @@
-# flashchat_flutter
+## FlashChat
 
-A group chat application on flutter.
+Group Chat Application on Flutter
 
-## Getting Started
+## Leaning Objective
+- How to incorporate Firebase into your Flutter projects.
+- How to use Firebase authentication to register and sign in users.
+- How to create beautiful animations using the Flutter Hero widget.
+- How to create custom aniamtions using Flutter's animation controller.
+- Learn all about mixins and how they differ from superclasses.
+- Learn about Streams and how they work.
+- Learn to use ListViews to build scrolling views.
+- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
-This project is a starting point for a Flutter application.
+## Goal
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ezgif-3-1f51162300](https://user-images.githubusercontent.com/92988853/194768071-68b343d6-046b-4ed1-8b49-b38f5040e4b9.gif)
